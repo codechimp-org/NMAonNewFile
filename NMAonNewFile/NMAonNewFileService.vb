@@ -2,7 +2,7 @@
 
 Public Class NMAonNewFileService
 
-    ' NOTE you should install this service as WHS/Andrew  then change to local system account once installed.
+    ' NOTE you should install this service as yourself then change to local system account once installed.
 
     Dim WithEvents n As New Monitor.Notifier
     Dim LastNotification As New Generic.Dictionary(Of String, DateTime)
