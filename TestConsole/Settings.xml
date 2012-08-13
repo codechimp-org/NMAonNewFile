@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings event="TEST" message="New Files in {1}" frequency="5" priority="H">
+  <Setting name="a" path="c:\test\a" filter="*.txt" includesubdirectories="true"></Setting>
+  <Setting name="b" path="c:\test\b" filter="*.txt" includesubdirectories="true"></Setting>
+</Settings>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings event="Server Name" message="New Files in {1}" frequency="5" priority="L">
+  <Setting name="Torrents" path="d:\shares\utorrent\downloads" filter="*.*" includesubdirectories="true"></Setting>
+  <Setting name="Public" path="d:\shares\public" filter="*.*" includesubdirectories="true"></Setting>
+</Settings>
